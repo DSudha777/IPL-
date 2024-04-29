@@ -16,14 +16,23 @@ Be creative with your presentation, audio/video presentation will have more weig
 Major Insights are:
 
 1.Super Kings won the championship in IPL 2023
+
 2.Titans stood runner up in IPL 2023
+
 3.Shubman Gill from Titans to win Orange cap in IPL 2023. He scored 890 runs in 564 balls at an Strike_Rate of 157.8%
+
 4.Mohammed Shami  from Titans to win the Purple Cap in IPL 2023. He took 28 wickets at an average of 18.64
+
 5. Shubman Gill scored most (85) 4s and Fafdu Plessis scored most (36) 6s in IPL 2023
+   
 6.Shubman Gill scored most (3) hundrends in IPL 2023.
+
 7. Overall winning % for Titans is 69.70% from IPL (2021-2023)
+   
 8.RCB won a match against Royals with a largest margin of 112 runs 
+
 9. Teams qualified for IPL 2023 are Titans, Super Kings, Giants, Mumbai Indians
+    
 10.Most ducks for the IPL 2023 is Jos Buttler from Royals  team.
 
 
